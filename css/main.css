@@ -36,6 +36,10 @@ a:hover {
   text-decoration: none;
 }
 
+a:focus {
+  outline: 3px solid #000;
+}
+
 .nav a:hover {
   background-color: #fff;
   color: #113c00;
