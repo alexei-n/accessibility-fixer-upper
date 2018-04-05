@@ -36,8 +36,8 @@ a:hover {
   text-decoration: none;
 }
 
-nav a:focus {
-  outline: 3px solid #000;
+.nav a:focus {
+  outline: #000;
 }
 
 .nav a:hover {
